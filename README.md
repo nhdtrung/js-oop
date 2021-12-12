@@ -1,0 +1,4 @@
+# Example about Javascript
+
+Prototype: 
+
